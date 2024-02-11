@@ -2,4 +2,8 @@
 - Estado del Proyecto en Construccion
 
 Para ejecutar el sistema debes poner en:
- **eact**
+ 
+ **npm React**
+
+
+Sistema de Registro 2
