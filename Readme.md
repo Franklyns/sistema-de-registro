@@ -3,7 +3,7 @@
 
 Para ejecutar el sistema debes poner en:
  
- **npm React**
+ *** npm React ***
 
 
 Sistema de Registro 2
